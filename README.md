@@ -6,7 +6,7 @@ Curso Técnico em Informática -   Turma MT
   
   
 ###### Principais comandos do GIT
-...  
+```
 git help - Mostra os comandos do Git  
 git --version - Mostra a versão do Git  
 git init - Inicializar um repositório Git  
@@ -22,7 +22,7 @@ git clone - Clona um repositório Git
 git pull - Atualiza modificações do repositório  
 git rm - Remove arquivos adicionados ao repositório  
 git push - Responsável por adicionar os arquivos a um Login do Github  
-...
+```
   
 #### Link para referência dos Comandos Markdown para o Github
 [Blog da2k](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
